@@ -1,0 +1,44 @@
+body{
+   
+    color:black;
+    font-size: larger;
+    height: 200px;
+
+    }
+.form{
+    margin: auto 5%;
+    text-align:right;
+    align-items: center;
+    object-position: top right;
+    margin-left: 50%;
+    margin-top: -45%;
+    margin-right: 10%;
+    color: purple;
+   
+
+}
+#button{
+    border: 3px;
+    background-color: blue;
+    padding: 5px 5px;
+    width: 150px;
+    height: 50px;
+    color: white;
+
+}
+#signupbutton{
+    border: 3px;
+    background-color: white;
+    padding: 5px 5px;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}
+
+
+
+
+
+
+}
+

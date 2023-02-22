@@ -1,0 +1,32 @@
+body{
+    background-color: aliceblue;
+    
+
+
+
+}
+
+
+
+
+.form{
+    margin: auto 35%;
+    text-align: center;
+    padding-top: 10%;
+    color: purple;
+   
+
+
+
+
+}
+
+#button{
+background-color:aliceblue;
+padding: 5px 10px;
+width: 80px;
+height: 40px;
+
+
+
+}
