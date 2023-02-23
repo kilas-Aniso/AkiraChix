@@ -1,11 +1,20 @@
 body{
     background-color: aliceblue;
+    background-image: url(Pictures/abstract.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:none;
+
     
 
 
 
 }
+input{
+padding: 5px 4px;
 
+
+}
 
 
 
@@ -13,7 +22,9 @@ body{
     margin: auto 35%;
     text-align: center;
     padding-top: 10%;
-    color: purple;
+    color: white;
+    font-size: larger;
+   
    
 
 
@@ -23,9 +34,11 @@ body{
 
 #button{
 background-color:aliceblue;
-padding: 5px 10px;
-width: 80px;
+
+width: 120px;
 height: 40px;
+
+
 
 
 
